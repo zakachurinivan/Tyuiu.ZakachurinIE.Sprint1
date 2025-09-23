@@ -36,7 +36,7 @@ namespace Tyuiu.ZakachurinIE.Sprint1.Task1.V25
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine(ds.Calculate(x, y));
+            Console.WriteLine(Math.Round(ds.Calculate(x, y),2));
 
             Console.ReadLine();
         }
