@@ -6,7 +6,7 @@ namespace Tyuiu.ZakachurinIE.Sprint1.Task3.V8.Lib
     {
         public double IncomeAmount(double startAmount, double percent, double timeDays)
         {
-            return Math.Round((startAmount/100)*((timeDays/365)*percent),2);
+            return Math.Round((startAmount/100)*((timeDays/365)*percent),3);
         }
     }
 }
