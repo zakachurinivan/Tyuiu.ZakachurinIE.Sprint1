@@ -24,6 +24,7 @@ namespace Tyuiu.ZakachurinIE.Sprint1.Task4.V19
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
 
+
             double x;
             Console.WriteLine("Введите значение X = ");
             x = double.Parse(Console.ReadLine());
