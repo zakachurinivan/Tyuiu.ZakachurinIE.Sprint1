@@ -26,6 +26,7 @@ namespace Tyuiu.ZakachurinIE.Sprint1.Task6.V17
 
             
             Console.WriteLine("Введите строку = ");
+
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
